@@ -1,10 +1,12 @@
-\# BMW Car Sales Analysis (2010–2024) 🚗📊
+\# 🚗 BMW Car Sales Analysis (2010–2024) 📊
 
 
 
-\## Overview
+\## 📌 Overview
 
-This project presents a detailed \*\*Exploratory Data Analysis (EDA)\*\* of \*\*BMW car sales data from 2010 to 2024\*\*.  
+This project presents a detailed \*\*Exploratory Data Analysis (EDA)\*\* of \*\*BMW car sales data from 2010 to 2024\*\*.
+
+
 
 The analysis focuses on identifying long-term sales trends, pricing behavior, and meaningful patterns using Python-based data analysis and visualization techniques.
 
@@ -20,17 +22,15 @@ The project demonstrates practical data analysis skills, business insight genera
 
 \## 🎯 Objectives
 
+\- Analyze year-wise BMW sales trends
 
+\- Understand pricing distribution across BMW models
 
-\- Analyze year-wise BMW sales trends  
+\- Identify premium and outlier vehicle segments
 
-\- Understand pricing distribution across BMW models  
+\- Explore long-term market behavior using EDA
 
-\- Identify premium and outlier vehicle segments  
-
-\- Explore long-term market behavior using EDA  
-
-\- Generate actionable insights through visual analysis  
+\- Generate actionable insights through visual analysis
 
 
 
@@ -42,17 +42,17 @@ The project demonstrates practical data analysis skills, business insight genera
 
 
 
-| Metric | Insight |
+| Metric            | Insight |
 
-|------|--------|
+|------------------|--------|
 
-| Sales Trend | Noticeable year-to-year variation with long-term patterns |
+| Sales Trend      | Noticeable year-to-year variation with long-term patterns |
 
 | Pricing Behavior | Clear segmentation across different BMW models |
 
-| Outliers | High-end and luxury BMW variants identified |
+| Outliers         | High-end and luxury BMW variants identified |
 
-| Market Pattern | Stable trends with periodic fluctuations |
+| Market Pattern   | Stable trends with periodic fluctuations |
 
 
 
@@ -62,8 +62,6 @@ The project demonstrates practical data analysis skills, business insight genera
 
 \## 📋 Dataset Information
 
-
-
 The dataset contains \*\*historical BMW car sales and pricing data\*\* used for exploratory analysis.
 
 
@@ -72,19 +70,19 @@ The dataset contains \*\*historical BMW car sales and pricing data\*\* used for 
 
 
 
-| Attribute | Description |
+| Attribute     | Description |
 
-|---------|------------|
+|--------------|------------|
 
-| Brand | BMW |
+| Brand        | BMW |
 
-| Time Period | 2010 – 2024 |
+| Time Period  | 2010 – 2024 |
 
-| Data Type | Structured tabular data |
+| Data Type    | Structured tabular data |
 
-| Format | CSV |
+| Format       | CSV |
 
-| Usage | Exploratory Data Analysis |
+| Usage        | Exploratory Data Analysis |
 
 
 
@@ -96,15 +94,15 @@ The dataset contains \*\*historical BMW car sales and pricing data\*\* used for 
 
 |------------|------------|----------|
 
-| Year | Year of sale | Integer |
+| Year       | Year of sale | Integer |
 
-| Model | BMW vehicle model | Categorical |
+| Model      | BMW vehicle model | Categorical |
 
-| Price | Vehicle price | Numerical (Float) |
+| Price      | Vehicle price | Numerical (Float) |
 
-| Sales | Number of units sold | Numerical (Integer) |
+| Sales      | Number of units sold | Numerical (Integer) |
 
-| Category | Vehicle segment / type | Categorical |
+| Category   | Vehicle segment / type | Categorical |
 
 
 
@@ -122,45 +120,45 @@ The dataset contains \*\*historical BMW car sales and pricing data\*\* used for 
 
 \### Phase 1: Data Exploration
 
-\- Dataset structure and column inspection  
+\- Dataset structure and column inspection
 
-\- Data type validation  
+\- Data type validation
 
-\- Initial statistical summary  
+\- Initial statistical summary
 
-\- Data quality checks  
+\- Data quality checks
 
 
 
 \### Phase 2: Data Cleaning \& Preparation
 
-\- Formatting and preprocessing  
+\- Formatting and preprocessing
 
-\- Handling inconsistencies  
+\- Handling inconsistencies
 
-\- Preparing data for analysis  
+\- Preparing data for analysis
 
 
 
 \### Phase 3: Exploratory Data Analysis (EDA)
 
-\- Year-wise sales trend analysis  
+\- Year-wise sales trend analysis
 
-\- Price distribution analysis  
+\- Price distribution analysis
 
-\- Outlier detection  
+\- Outlier detection
 
-\- Descriptive statistics  
+\- Descriptive statistics
 
 
 
 \### Phase 4: Insights \& Interpretation
 
-\- Trend interpretation  
+\- Trend interpretation
 
-\- Pricing behavior insights  
+\- Pricing behavior insights
 
-\- Business-oriented conclusions  
+\- Business-oriented conclusions
 
 
 
@@ -170,13 +168,13 @@ The dataset contains \*\*historical BMW car sales and pricing data\*\* used for 
 
 \## 📈 Visualizations
 
-\- Year-wise sales trend plots  
+\- Year-wise sales trend plots
 
-\- Price distribution histograms and boxplots  
+\- Price distribution histograms and boxplots
 
-\- Comparative trend charts  
+\- Comparative trend charts
 
-\- Statistical summaries through visual analysis  
+\- Statistical summaries through visual analysis
 
 
 
@@ -242,15 +240,12 @@ cd BMW-sales-data-EDA-1
 
 jupyter notebook
 
+
 ```
-
----
-
-
 
 \## 📁 Project Structure
 
-```
+```text
 
 BMW-sales-data-EDA-1/
 
@@ -261,10 +256,6 @@ BMW-sales-data-EDA-1/
 └── BMW1-Dataset.csv
 
 ```
-
----
-
-
 
 \## 💼 Skills Demonstrated
 
@@ -288,8 +279,6 @@ BMW-sales-data-EDA-1/
 
 \## 👤 Author
 
-
-
 \*\*Vamsi Vaka\*\*  
 
 B.Tech – Artificial Intelligence \& Machine Learning  
@@ -306,13 +295,7 @@ Aspiring Data Analyst / Data Scientist
 
 
 
----
-
-
-
 \## ⭐ If you find this project useful, feel free to star the repository!
-
----
 
 
 
